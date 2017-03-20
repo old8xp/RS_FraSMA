@@ -1,7 +1,8 @@
 //+------------------------------------------------------------------+
 //|                                                    rs_FraSMA.mq5 |
-//|                              Copyright © 2009, jppoton@yahoo.com | 
-//|                                      migrated by cping.luo       |   
+//|                              Copyright © 2009, jppoton@yahoo.com |
+//|                                      migrated by cping.luo       |
+//|                                                                  |
 //+------------------------------------------------------------------+
 #property copyright "Copyright © 2009, jppoton@yahoo.com"
 #property link      "http://fractalfinance.blogspot.com/"
