@@ -15,7 +15,7 @@
 #property indicator_color1  clrLimeGreen ,clrGray,clrRed
 #property indicator_label1  "RS_FraSMA"
 //+------------------------------------------------------------------+
-//|                                                                  |
+//|Pirce enumerate                                                   |
 //+------------------------------------------------------------------+
 enum Applied_price_
   {
